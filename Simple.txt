@@ -1,0 +1,2 @@
+https://medium.com/analytics-vidhya/getting-ready-for-deep-learning-using-gpus-a-setup-guide-62c855559c83
+https://medium.com/analytics-vidhya/tagged/deep-learning
